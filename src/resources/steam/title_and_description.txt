@@ -8,17 +8,40 @@ DESCRIPTION
 -----------
 
 [h1]Mod Description[/h1]
-_TODO_
+This mod replaces some sound effects with alternative or shortened versions that I personally like better than the vanilla ones.
+Especially the original "Child is Born" and "Character Death" sounds have been trimmed in length.
 
-[h1]Ironman[/h1]
-This mod is Ironman compatible.
+The following sound effects will be replaced by this mod:
+[list]
+[*] Army Move
+[*] Army Selected
+[*] Character Death
+[*] Character Event
+[*] Child Death
+[*] Child is Born
+[*] Death Female Illness
+[*] Death Male Illness
+[*] New Alert
+[*] New Priority Message
+[*] Play Game
+[*] Ruler Succession
+[/list]
+
+[h1]Ironman and Achievements[/h1]
+Ironman: yes
+Achievements: yes
 
 [h1]Additional Mods[/h1]
-This mod works best in conjunction with the following mods:
+I use this mod together with the following mod:
 [list]
-[*] Sound Effects: Silentium
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=916103864]Sound Effects: Silentium[/url]
 [/list]
 
 [h1]Miscellaneous[/h1]
-_TODO_
+I also recommend checking out the following great mods that modify sound effects:
+[list]
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=242419928]Subtle Sounds[/url] by Johnathan Crow
+[*] [url=http://steamcommunity.com/sharedfiles/filedetails/?id=253274409][VS] Enhanced Sounds[/url] by Dorimi
+[/list]
+
 
